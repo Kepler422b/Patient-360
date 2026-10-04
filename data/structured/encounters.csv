@@ -1,0 +1,154 @@
+ENCOUNTER_ID,PATIENT_ID,ENCOUNTER_DATE,PROVIDER,DIAGNOSIS_CODE,DIAGNOSIS_DESC
+5cad9394-b735-442d-9aee-2d0c5db972fd,85175220-2140-402d-9b8b-c7997c6f84d3,2026-09-30,Dr. Brown,M54.5,Low back pain
+7e1d88da-4017-4cba-adda-a023841f3fdc,626d174f-c5b4-4138-b5b4-5472eb396726,2026-04-23,Dr. Roberts,K21.9,Gastro-esophageal reflux disease without esophagitis
+4f9441a8-ea42-4d5f-9038-93f4097c67d9,626d174f-c5b4-4138-b5b4-5472eb396726,2026-06-07,Dr. Middleton,K21.9,Gastro-esophageal reflux disease without esophagitis
+3158dea7-1d0b-4d0e-ace8-24023283e6f3,264b4660-14a1-4b6a-be20-fd905d55d961,2025-03-11,Dr. Butler,E78.5,"Hyperlipidemia, unspecified"
+901b53c7-3cbc-4bad-a5a8-1630a7338a8c,264b4660-14a1-4b6a-be20-fd905d55d961,2025-12-12,Dr. Gilmore,J45.909,"Unspecified asthma, uncomplicated"
+3ccbae59-02b5-4e76-927e-36c90353722f,264b4660-14a1-4b6a-be20-fd905d55d961,2024-11-15,Dr. Le,M54.5,Low back pain
+92b8c39e-3df4-4c9e-9750-a5d3e75d002b,264b4660-14a1-4b6a-be20-fd905d55d961,2026-03-01,Dr. Davila,M54.5,Low back pain
+93233dd8-fec5-4250-92b3-e143d2721e81,2995a67f-22b8-4497-a65b-201a3a4e753b,2026-04-10,Dr. Freeman,E11.9,Type 2 diabetes mellitus without complications
+26b5ebab-a28f-446c-8c9b-0e3f1d7b3b7a,2995a67f-22b8-4497-a65b-201a3a4e753b,2024-10-11,Dr. Harvey,J45.909,"Unspecified asthma, uncomplicated"
+0ae4098b-8108-4716-b498-ffb7aaf79383,2995a67f-22b8-4497-a65b-201a3a4e753b,2025-10-07,Dr. Mitchell,J45.909,"Unspecified asthma, uncomplicated"
+87c710bf-1f04-49d1-8eb7-924a07a67b96,2995a67f-22b8-4497-a65b-201a3a4e753b,2026-07-30,Dr. Serrano,E11.9,Type 2 diabetes mellitus without complications
+26a82afd-651d-4d31-b9e3-bb1179434e92,2995a67f-22b8-4497-a65b-201a3a4e753b,2026-05-28,Dr. Griffin,J45.909,"Unspecified asthma, uncomplicated"
+e1dc7a6e-195e-4eed-be0d-4d4330d4e62f,8f95a76b-ec65-4f0f-a2b4-7b3da71747dd,2025-05-24,Dr. Thompson,J45.909,"Unspecified asthma, uncomplicated"
+a3a27438-1018-45dc-94ab-be94a12eb925,8f95a76b-ec65-4f0f-a2b4-7b3da71747dd,2025-10-27,Dr. Davis,M54.5,Low back pain
+5da74779-bb5a-41ac-bc86-0cf54f14ae81,8f95a76b-ec65-4f0f-a2b4-7b3da71747dd,2024-11-12,Dr. Hamilton,E11.9,Type 2 diabetes mellitus without complications
+0f307a8a-0da8-4cbc-9a6a-347b594ec0f5,fd198c74-0849-4e38-b4c4-f51ad6e1e11b,2025-07-31,Dr. Miller,K21.9,Gastro-esophageal reflux disease without esophagitis
+3fd62e2c-2a95-4c87-83d4-1d91db4974bd,fd198c74-0849-4e38-b4c4-f51ad6e1e11b,2024-12-26,Dr. Williams,M54.5,Low back pain
+6c5e38c9-5924-47a1-9c78-0407bd2bb15f,fd198c74-0849-4e38-b4c4-f51ad6e1e11b,2025-02-10,Dr. Caldwell,M54.5,Low back pain
+1f5eee86-bef4-416f-b587-a4674414dc67,fd198c74-0849-4e38-b4c4-f51ad6e1e11b,2026-01-03,Dr. Franklin,J45.909,"Unspecified asthma, uncomplicated"
+fd1716a7-e9c6-45ea-822a-fbfb19811be5,fd198c74-0849-4e38-b4c4-f51ad6e1e11b,2025-12-10,Dr. Campbell,E11.9,Type 2 diabetes mellitus without complications
+c08b8150-8dc1-4e63-a75d-d40338e69249,bc447bcc-356c-4c06-b980-e0b54f5a5ada,2024-12-17,Dr. Salinas,E11.9,Type 2 diabetes mellitus without complications
+9d8fd13d-9964-47fe-81b1-0c9ac0d8703e,bc447bcc-356c-4c06-b980-e0b54f5a5ada,2024-10-03,Dr. Mays,E78.5,"Hyperlipidemia, unspecified"
+3c39767c-e6f7-486c-8c5e-0f3e2875ee09,bc447bcc-356c-4c06-b980-e0b54f5a5ada,2025-07-11,Dr. Sharp,K21.9,Gastro-esophageal reflux disease without esophagitis
+b189fcc1-8df8-4be8-9f4c-abafbce74602,bc447bcc-356c-4c06-b980-e0b54f5a5ada,2026-10-03,Dr. Garcia,M54.5,Low back pain
+623e1b13-d281-4c5b-ac9b-fde31851eb6d,bc447bcc-356c-4c06-b980-e0b54f5a5ada,2025-06-14,Dr. Garcia,I10,Essential (primary) hypertension
+44a2b507-0689-4d83-b6b0-b6f75416e51a,8f359817-507a-4f3f-9228-c991edf5c51d,2025-07-02,Dr. Mayo,J45.909,"Unspecified asthma, uncomplicated"
+90b86d84-dfd7-4455-b487-6c9dc1f428e7,8f359817-507a-4f3f-9228-c991edf5c51d,2026-04-09,Dr. Barker,E11.9,Type 2 diabetes mellitus without complications
+62b87b7f-9f4c-4816-af46-880d15f19cf3,8f359817-507a-4f3f-9228-c991edf5c51d,2025-10-16,Dr. Morales,M54.5,Low back pain
+7f01f592-47ce-4ed3-be6f-55c91382558b,8f359817-507a-4f3f-9228-c991edf5c51d,2024-10-11,Dr. Stewart,E78.5,"Hyperlipidemia, unspecified"
+9c3fdff2-074b-4237-ac8d-953a2ca70ea1,8f359817-507a-4f3f-9228-c991edf5c51d,2025-03-06,Dr. Saunders,I10,Essential (primary) hypertension
+212a8c67-665b-4033-8279-6b14597de9d6,7dc92762-cfb6-403d-8d0c-0148446ba90c,2026-01-11,Dr. Ford,I10,Essential (primary) hypertension
+79c3890c-8ed4-4e08-9597-e8533ce513b6,7dc92762-cfb6-403d-8d0c-0148446ba90c,2026-04-08,Dr. Todd,E11.9,Type 2 diabetes mellitus without complications
+10a95a7b-d957-4902-850f-bce256181cb3,7dc92762-cfb6-403d-8d0c-0148446ba90c,2026-03-30,Dr. Martinez,K21.9,Gastro-esophageal reflux disease without esophagitis
+600eeac4-3fcd-408d-a0b1-d3c299982296,7dc92762-cfb6-403d-8d0c-0148446ba90c,2025-01-07,Dr. Wang,E11.9,Type 2 diabetes mellitus without complications
+4f66009d-3720-4d04-a6f3-e615e8c88cb2,7dc92762-cfb6-403d-8d0c-0148446ba90c,2025-02-25,Dr. Lindsey,E11.9,Type 2 diabetes mellitus without complications
+c770f9df-2537-4140-bdb2-770bee1f312d,9d845758-be3c-4a91-a4cd-9d2e29b2f0da,2025-03-31,Dr. Dunn,J45.909,"Unspecified asthma, uncomplicated"
+009b8036-c6c4-423f-ae0f-6db70110bde5,804570b8-ea5d-4b80-a8d9-bb4edacbdaf3,2025-05-10,Dr. Brown,J45.909,"Unspecified asthma, uncomplicated"
+754768b3-accd-4194-bdf2-c38eb7b9625d,804570b8-ea5d-4b80-a8d9-bb4edacbdaf3,2024-11-14,Dr. Brown,K21.9,Gastro-esophageal reflux disease without esophagitis
+dd6bf88a-37dc-4050-90b8-66d0425a69ea,804570b8-ea5d-4b80-a8d9-bb4edacbdaf3,2026-04-18,Dr. Johnson,E78.5,"Hyperlipidemia, unspecified"
+22f9fe71-ff68-4e24-8f4c-6c8094f230eb,f6e71267-9024-4d80-9909-65ae301c3146,2025-08-12,Dr. Sanchez,K21.9,Gastro-esophageal reflux disease without esophagitis
+b0dc10aa-6898-4b71-b318-0774451c05db,f6e71267-9024-4d80-9909-65ae301c3146,2026-05-06,Dr. Kerr,F41.1,Generalized anxiety disorder
+acd5ad5a-aad8-43aa-a973-fa2c2f9537fb,f6e71267-9024-4d80-9909-65ae301c3146,2025-07-04,Dr. Mueller,E11.9,Type 2 diabetes mellitus without complications
+5d2880ce-7229-4b6f-8bc4-47e19c9efd6a,d2fc371a-04f4-4b6a-a363-d358bc1632b2,2026-05-31,Dr. Roberts,J45.909,"Unspecified asthma, uncomplicated"
+eb0de60d-1c1e-433c-ae29-717fdf656172,d2fc371a-04f4-4b6a-a363-d358bc1632b2,2025-07-06,Dr. George,M54.5,Low back pain
+292b63e7-8884-4db8-9081-935f94c0bddc,d2fc371a-04f4-4b6a-a363-d358bc1632b2,2026-03-23,Dr. Cruz,J45.909,"Unspecified asthma, uncomplicated"
+727dd510-482f-4f99-b6cf-4f2b4fb6177e,d2fc371a-04f4-4b6a-a363-d358bc1632b2,2025-01-14,Dr. Moreno,E78.5,"Hyperlipidemia, unspecified"
+79decb94-d459-4fb8-a1f5-baf72dbaa003,d2fc371a-04f4-4b6a-a363-d358bc1632b2,2025-06-17,Dr. Kemp,F41.1,Generalized anxiety disorder
+1d77aab4-2684-47fb-b340-11e1277bab30,541383ca-5e2c-4eac-aac9-c86bcad56348,2025-09-07,Dr. Farmer,M54.5,Low back pain
+9af55d17-f65a-4466-a805-7c722e478764,51a87f7c-7a94-4ea2-9ff3-2860bfd012c5,2025-03-07,Dr. Valdez,E78.5,"Hyperlipidemia, unspecified"
+3a53c46e-2786-4271-8a76-101fcb662629,51a87f7c-7a94-4ea2-9ff3-2860bfd012c5,2025-11-07,Dr. Watts,J45.909,"Unspecified asthma, uncomplicated"
+3ce665fa-bbc6-445e-b604-d749f97a57f0,51a87f7c-7a94-4ea2-9ff3-2860bfd012c5,2026-05-10,Dr. Phillips,E11.9,Type 2 diabetes mellitus without complications
+763b2bb5-5d31-45de-9c6b-2c41f551b150,51a87f7c-7a94-4ea2-9ff3-2860bfd012c5,2025-05-14,Dr. Davis,F41.1,Generalized anxiety disorder
+bd42c225-efcc-4ea7-a16b-06e0ec0c44dc,51a87f7c-7a94-4ea2-9ff3-2860bfd012c5,2025-04-14,Dr. Griffin,E78.5,"Hyperlipidemia, unspecified"
+69769497-c5a9-4a6c-bc33-d1a162b883c9,597c187a-615d-4929-ada0-a5d1d7fe8ff4,2025-04-06,Dr. Fisher,E11.9,Type 2 diabetes mellitus without complications
+6228b1f5-05bf-49cc-a9cd-4bc00feed0f5,597c187a-615d-4929-ada0-a5d1d7fe8ff4,2026-06-01,Dr. Chase,F41.1,Generalized anxiety disorder
+27ed560b-692b-4695-b634-20f1ed53dd19,7acd4adb-ff67-4453-b301-f2b59e8cb4e7,2026-01-11,Dr. Rubio,I10,Essential (primary) hypertension
+f82345dc-e0c2-46dc-abca-a4347ded012d,23861a77-8c34-46eb-a18e-e35d58a050d4,2025-01-14,Dr. Price,I10,Essential (primary) hypertension
+22b20968-92df-486d-92a0-5b16fe65dd57,23861a77-8c34-46eb-a18e-e35d58a050d4,2026-08-13,Dr. Lee,F41.1,Generalized anxiety disorder
+6cc16c87-a397-4c6f-9586-a2ceb00f1cef,23861a77-8c34-46eb-a18e-e35d58a050d4,2025-01-28,Dr. Powell,E78.5,"Hyperlipidemia, unspecified"
+93074617-d7d9-4fb7-90fa-0a512d90fd22,9f0d2c68-9620-4f77-8935-784c55b14b1d,2024-10-26,Dr. Greer,F41.1,Generalized anxiety disorder
+1b3b20eb-0217-4136-b131-46baf780058a,9f0d2c68-9620-4f77-8935-784c55b14b1d,2026-08-28,Dr. Maldonado,I10,Essential (primary) hypertension
+6d53bfd3-88bd-43d1-b84c-1c1714105cc2,cf7c7634-eca8-4527-801c-7c9720ba7f8b,2026-08-19,Dr. Russo,F41.1,Generalized anxiety disorder
+6e611950-68a9-43d9-b934-9203c5b2949a,1896e8a3-1955-439c-bf4d-eb91c3e84cb5,2026-01-28,Dr. Garcia,J45.909,"Unspecified asthma, uncomplicated"
+3ce95f89-3ec2-4512-9389-c233772a0ca6,3a250a7c-f377-4fff-9f5b-6b09fe0ee8ce,2025-05-30,Dr. Martin,F41.1,Generalized anxiety disorder
+62920c80-af30-49d7-b572-a36dcca6356b,4bd2f649-6279-4a94-8af1-106c76bd1e8b,2025-01-30,Dr. Munoz,J45.909,"Unspecified asthma, uncomplicated"
+87680f83-48c2-487f-ab2e-8a88ba8f6627,4bd2f649-6279-4a94-8af1-106c76bd1e8b,2025-02-24,Dr. Wilson,M54.5,Low back pain
+c675b6ca-9d8c-477a-868a-c886b65bc13d,4bd2f649-6279-4a94-8af1-106c76bd1e8b,2026-05-11,Dr. Stout,I10,Essential (primary) hypertension
+ef525fc9-6917-4dbc-8885-a39afe324517,4bd2f649-6279-4a94-8af1-106c76bd1e8b,2025-01-27,Dr. Jackson,F41.1,Generalized anxiety disorder
+43b3f9f7-b55e-4203-943a-d783004e71c5,4bd2f649-6279-4a94-8af1-106c76bd1e8b,2026-01-30,Dr. Mcdaniel,E78.5,"Hyperlipidemia, unspecified"
+e0632e2e-613e-478f-b5d8-c9905c6a59bb,9200908c-3a05-4278-88ef-119337bc8c25,2026-03-20,Dr. Vasquez,J45.909,"Unspecified asthma, uncomplicated"
+315d763f-97a7-4e81-8650-e9d4aa811f62,3dbc18a8-c6c3-4bc8-afcb-de332d2bfe80,2025-05-23,Dr. Roberts,M54.5,Low back pain
+f97da309-3b10-4873-bcc4-fa2a8697e50b,3dbc18a8-c6c3-4bc8-afcb-de332d2bfe80,2025-08-05,Dr. Green,J45.909,"Unspecified asthma, uncomplicated"
+df47d387-1f39-46ea-988d-939b3351cbd9,c61cf801-6bc9-49af-acff-8c3c7fa30ffa,2025-01-26,Dr. Richmond,J45.909,"Unspecified asthma, uncomplicated"
+2b10349e-512e-49d8-b5a5-9b3dac089aeb,8250e0c7-392e-4fa9-b1cc-59ed6c761d39,2024-11-01,Dr. Phillips,E11.9,Type 2 diabetes mellitus without complications
+9f38583b-01d5-40d5-a795-0318b8a0b13f,8250e0c7-392e-4fa9-b1cc-59ed6c761d39,2025-01-30,Dr. Chavez,E78.5,"Hyperlipidemia, unspecified"
+7b07386a-56cd-4a1f-8235-ae155064e183,9c55c2be-fdee-4b72-9af8-0f5cf9b4ba17,2026-09-17,Dr. Floyd,I10,Essential (primary) hypertension
+231818d4-5eda-4989-ba02-2196421e3c06,9c55c2be-fdee-4b72-9af8-0f5cf9b4ba17,2026-09-15,Dr. Miller,E11.9,Type 2 diabetes mellitus without complications
+e7526286-cdb3-45c5-8ea3-87a949bca6d0,9c55c2be-fdee-4b72-9af8-0f5cf9b4ba17,2026-07-17,Dr. Dudley,K21.9,Gastro-esophageal reflux disease without esophagitis
+532f5e05-26fb-4b6a-b453-159cbc83828a,9c55c2be-fdee-4b72-9af8-0f5cf9b4ba17,2026-04-14,Dr. Bolton,M54.5,Low back pain
+97d95bf8-6f64-439a-8471-c780ead09846,dff16cda-ad42-42e5-86da-a2b9b98e2a9a,2026-09-15,Dr. Davis,E78.5,"Hyperlipidemia, unspecified"
+4cc922e2-5b5c-419e-8bdc-543ef67eda10,dff16cda-ad42-42e5-86da-a2b9b98e2a9a,2026-03-28,Dr. Dixon,J45.909,"Unspecified asthma, uncomplicated"
+2ce2b743-8a80-4798-a765-fada4930f4a3,dff16cda-ad42-42e5-86da-a2b9b98e2a9a,2025-09-26,Dr. Smith,I10,Essential (primary) hypertension
+481a3ac3-a858-4b14-8813-caac169f72b3,973dc948-c26f-4235-968c-7701e8221e6d,2025-11-08,Dr. Steele,E78.5,"Hyperlipidemia, unspecified"
+9bf337cb-bceb-4dd9-9e84-53f9612dc6a9,c331057a-0e9a-417e-91b1-6b78ab48bf43,2025-10-08,Dr. Reyes,E11.9,Type 2 diabetes mellitus without complications
+eb35424f-cbf6-499c-b692-80459ad2de06,c331057a-0e9a-417e-91b1-6b78ab48bf43,2026-02-03,Dr. Nunez,J45.909,"Unspecified asthma, uncomplicated"
+2b373691-488a-49f2-aeeb-3be40ac72c47,c331057a-0e9a-417e-91b1-6b78ab48bf43,2026-08-16,Dr. Newman,M54.5,Low back pain
+d9f6185e-bb05-47f9-92aa-20c78c724dcc,c331057a-0e9a-417e-91b1-6b78ab48bf43,2026-03-08,Dr. Lopez,I10,Essential (primary) hypertension
+b2d94489-125b-4b41-bb96-42b3ce7fb4e6,c331057a-0e9a-417e-91b1-6b78ab48bf43,2024-10-19,Dr. Peters,J45.909,"Unspecified asthma, uncomplicated"
+9f33a1e3-e1bb-4bec-aa2d-838a6089ded1,96701f1b-cbf1-4c34-9638-429733694abd,2025-07-21,Dr. Watson,J45.909,"Unspecified asthma, uncomplicated"
+4ff61074-334e-4378-98e0-5e9a8961d2d2,96701f1b-cbf1-4c34-9638-429733694abd,2025-04-22,Dr. Anderson,E11.9,Type 2 diabetes mellitus without complications
+8e1e2d24-ba9f-45cc-9ba1-fe10de3b12a5,96701f1b-cbf1-4c34-9638-429733694abd,2026-07-09,Dr. Turner,M54.5,Low back pain
+cefd80d6-0dce-4cfb-a810-2191cc6ea7bc,96701f1b-cbf1-4c34-9638-429733694abd,2025-09-13,Dr. Walker,E11.9,Type 2 diabetes mellitus without complications
+0a1f8ced-e482-430c-acc8-326f0c0a7434,96701f1b-cbf1-4c34-9638-429733694abd,2025-06-08,Dr. Foster,E78.5,"Hyperlipidemia, unspecified"
+e7715fdd-4b85-40c1-bcf3-5fddf7697cc3,321c842d-8736-4c86-9051-f3df3cf05632,2026-04-07,Dr. Paul,J45.909,"Unspecified asthma, uncomplicated"
+9f8d9afd-1a69-4dd5-ac58-ba111afcbb08,321c842d-8736-4c86-9051-f3df3cf05632,2025-11-03,Dr. Mccall,K21.9,Gastro-esophageal reflux disease without esophagitis
+ba243eb7-11d3-4b08-9012-2e4d605c4a9e,321c842d-8736-4c86-9051-f3df3cf05632,2025-10-20,Dr. Carter,K21.9,Gastro-esophageal reflux disease without esophagitis
+0b10121b-4bce-484f-8140-faf4208dfbd5,321c842d-8736-4c86-9051-f3df3cf05632,2026-07-19,Dr. Simmons,F41.1,Generalized anxiety disorder
+bded0f7c-7fde-4f45-918a-3ab7ca57cb8b,321c842d-8736-4c86-9051-f3df3cf05632,2026-06-27,Dr. Walker,E78.5,"Hyperlipidemia, unspecified"
+b7712e27-3acb-4aa8-aa10-2216aaaf0a21,6043ffdb-11e5-43d9-bc1b-b4aa92d046a8,2025-09-14,Dr. Murphy,K21.9,Gastro-esophageal reflux disease without esophagitis
+7147b552-efba-484e-af12-530c5e443455,6043ffdb-11e5-43d9-bc1b-b4aa92d046a8,2024-11-03,Dr. Martin,K21.9,Gastro-esophageal reflux disease without esophagitis
+39ff5c0d-3a47-4fb3-8682-aad95e5ac5b0,934ae914-a6e8-4c7c-9ad0-c4e20537f5e5,2026-01-25,Dr. Haynes,K21.9,Gastro-esophageal reflux disease without esophagitis
+b74a8014-6203-4c6c-9927-eae5596f7af6,1a59bad0-23c2-4532-93cf-5f2eadc1629f,2026-06-10,Dr. Jennings,E11.9,Type 2 diabetes mellitus without complications
+4e9487cb-1fc6-44ec-a83c-38cdebcd3308,1a59bad0-23c2-4532-93cf-5f2eadc1629f,2025-10-19,Dr. Walton,K21.9,Gastro-esophageal reflux disease without esophagitis
+822fb306-af65-4710-b1e7-416f94ce9c4b,1a59bad0-23c2-4532-93cf-5f2eadc1629f,2024-11-14,Dr. Harmon,F41.1,Generalized anxiety disorder
+0340b850-a554-4597-85c1-9d41f2382ba1,1a59bad0-23c2-4532-93cf-5f2eadc1629f,2025-01-29,Dr. Sloan,J45.909,"Unspecified asthma, uncomplicated"
+5da5e85f-fd48-4417-bd44-53874026d541,1a59bad0-23c2-4532-93cf-5f2eadc1629f,2025-11-12,Dr. Williams,J45.909,"Unspecified asthma, uncomplicated"
+ab5eca06-6f33-4e8a-902e-204cacd44a47,5db9d5dc-2041-4b06-a685-b903e82e5dc3,2026-06-21,Dr. Hoffman,K21.9,Gastro-esophageal reflux disease without esophagitis
+9a20b148-2060-48c8-8038-63acdfcd5ad0,5db9d5dc-2041-4b06-a685-b903e82e5dc3,2025-08-08,Dr. Lambert,J45.909,"Unspecified asthma, uncomplicated"
+9c4c3cbe-b075-4753-8673-741263b5a1df,5db9d5dc-2041-4b06-a685-b903e82e5dc3,2024-12-19,Dr. Nunez,K21.9,Gastro-esophageal reflux disease without esophagitis
+a30005ba-f5ef-4307-924f-791baa9d0e73,3b31a6da-d473-4673-a3fc-d1099db8c53c,2026-03-13,Dr. Nicholson,K21.9,Gastro-esophageal reflux disease without esophagitis
+5bcc8fc9-3174-4050-b419-35e5bd64462d,3b31a6da-d473-4673-a3fc-d1099db8c53c,2025-02-28,Dr. Jones,K21.9,Gastro-esophageal reflux disease without esophagitis
+f8120d41-36c2-4809-8b96-8cbff8ab7902,3b31a6da-d473-4673-a3fc-d1099db8c53c,2026-07-08,Dr. Austin,J45.909,"Unspecified asthma, uncomplicated"
+85935ede-6078-4e49-80b3-c817055e18cf,3b31a6da-d473-4673-a3fc-d1099db8c53c,2026-06-14,Dr. Bentley,K21.9,Gastro-esophageal reflux disease without esophagitis
+0c237dc5-1c81-4d92-a9be-ab4f7415e1ec,3b31a6da-d473-4673-a3fc-d1099db8c53c,2025-03-02,Dr. Lewis,E11.9,Type 2 diabetes mellitus without complications
+7c7bcb87-0a52-408d-ba2f-dd2a0ee49d83,26000e45-2e49-44f9-9c0a-e88c37697b18,2026-07-26,Dr. Briggs,F41.1,Generalized anxiety disorder
+fcfadc55-2d02-475e-969f-490d92998c81,26000e45-2e49-44f9-9c0a-e88c37697b18,2026-05-31,Dr. Meyer,E78.5,"Hyperlipidemia, unspecified"
+79181d0d-66f3-499c-8c19-9977f869304f,26000e45-2e49-44f9-9c0a-e88c37697b18,2025-12-13,Dr. Rowe,E78.5,"Hyperlipidemia, unspecified"
+49fdf111-5951-46b0-9042-ebd3e0084da0,26000e45-2e49-44f9-9c0a-e88c37697b18,2025-03-05,Dr. Cole,M54.5,Low back pain
+ade11d4d-959e-4ebd-9a6b-9dfb8048a2ba,26000e45-2e49-44f9-9c0a-e88c37697b18,2026-01-06,Dr. Koch,M54.5,Low back pain
+5bfedba9-7198-405d-89ef-ad75addad727,8a9fafd5-e781-4d78-8417-db24d279fd1c,2026-06-24,Dr. Baxter,K21.9,Gastro-esophageal reflux disease without esophagitis
+dadb2c6d-6715-4ac9-b04d-de17d4e1aea0,8a9fafd5-e781-4d78-8417-db24d279fd1c,2026-03-03,Dr. Meyer,E11.9,Type 2 diabetes mellitus without complications
+8b890864-1b37-41c7-9de4-2cf5b3a7ce2b,3fa81e94-7f09-4201-86dd-7c3932a3d232,2026-09-08,Dr. Reeves,E11.9,Type 2 diabetes mellitus without complications
+47a0cdbb-217b-499c-8409-a2cf2aa186a9,3fa81e94-7f09-4201-86dd-7c3932a3d232,2025-05-06,Dr. Medina,J45.909,"Unspecified asthma, uncomplicated"
+ee674c42-c131-4cfd-8049-71007487cd90,3fa81e94-7f09-4201-86dd-7c3932a3d232,2024-11-03,Dr. Nguyen,M54.5,Low back pain
+ee6e335f-df46-4c65-b85c-ceccb612f4b6,3fa81e94-7f09-4201-86dd-7c3932a3d232,2025-03-20,Dr. Perez,E78.5,"Hyperlipidemia, unspecified"
+8c522c71-719d-4bb8-9448-cc6575a1f0f6,231e591f-f42a-4c16-91cd-e4fb106b54f3,2025-06-07,Dr. Farmer,I10,Essential (primary) hypertension
+a344a886-5b87-41b3-ba2a-c3a058983f34,231e591f-f42a-4c16-91cd-e4fb106b54f3,2026-01-04,Dr. Blanchard,I10,Essential (primary) hypertension
+3f8162cb-d626-48c9-93d4-b9386ada2f7a,231e591f-f42a-4c16-91cd-e4fb106b54f3,2026-03-29,Dr. Ramirez,M54.5,Low back pain
+94d88ee3-1ad9-4e6b-808b-af85b6b88863,231e591f-f42a-4c16-91cd-e4fb106b54f3,2025-05-24,Dr. Ferguson,M54.5,Low back pain
+3e064246-2a25-474a-aa4d-cac36933cc9c,a7a0f418-7d49-411d-965a-1f4f45cf4b71,2025-01-27,Dr. Noble,I10,Essential (primary) hypertension
+7cab72a7-3eaa-4a20-9d46-afd0b97db177,a7a0f418-7d49-411d-965a-1f4f45cf4b71,2026-05-19,Dr. Hanson,E78.5,"Hyperlipidemia, unspecified"
+b425d0da-9ac9-4c6d-9ea7-5019f5e48c05,a7a0f418-7d49-411d-965a-1f4f45cf4b71,2026-06-11,Dr. Cantu,M54.5,Low back pain
+b1e42a44-bade-40c4-a4a6-754f72d9cbc7,a7a0f418-7d49-411d-965a-1f4f45cf4b71,2025-06-09,Dr. Harris,M54.5,Low back pain
+1ec4b891-c42d-473d-b59b-14b09e34b15e,d22f7ee4-f822-4ccb-9ce1-f4569a63a99e,2025-09-29,Dr. Richardson,E11.9,Type 2 diabetes mellitus without complications
+a748ac6e-e33a-4ea6-b10c-2b3442b8c1e2,d22f7ee4-f822-4ccb-9ce1-f4569a63a99e,2025-12-22,Dr. Roberts,I10,Essential (primary) hypertension
+91d4d155-b202-4ba2-a034-a50c7993bcf7,d22f7ee4-f822-4ccb-9ce1-f4569a63a99e,2026-08-15,Dr. Brown,E78.5,"Hyperlipidemia, unspecified"
+42762cea-d02a-4046-aad0-3501ff190ba0,d22f7ee4-f822-4ccb-9ce1-f4569a63a99e,2026-03-27,Dr. Stone,K21.9,Gastro-esophageal reflux disease without esophagitis
+1851bf49-c41e-467c-99b0-d9b7dbdc68a8,d22f7ee4-f822-4ccb-9ce1-f4569a63a99e,2026-08-18,Dr. Miller,I10,Essential (primary) hypertension
+6aaf4b65-5574-4222-8594-56f70c0d7720,ad975442-8420-4634-ac57-80083a73a269,2025-12-11,Dr. Irwin,M54.5,Low back pain
+5d8c3da2-061e-46c1-bc39-c6480f843486,553f4fe0-6fe8-46f4-b632-15c980237ab3,2026-06-29,Dr. Salinas,I10,Essential (primary) hypertension
+ee4cad5c-27b8-4168-87dd-8f098702807e,553f4fe0-6fe8-46f4-b632-15c980237ab3,2024-12-01,Dr. Hardy,I10,Essential (primary) hypertension
+804f3552-6830-4f6b-8416-cf95f479d4cf,553f4fe0-6fe8-46f4-b632-15c980237ab3,2026-09-12,Dr. Richardson,M54.5,Low back pain
+40626744-14fc-4e30-a211-9102565a9b42,553f4fe0-6fe8-46f4-b632-15c980237ab3,2025-03-01,Dr. Barnes,K21.9,Gastro-esophageal reflux disease without esophagitis
+d5f5a6ef-7bb3-4bba-bfb1-1f826a9f4b6b,b8c0320f-b8fc-459c-b66f-9a4c561e74d4,2025-12-17,Dr. Jones,F41.1,Generalized anxiety disorder
+3b907c36-56d2-4ec7-ae3e-d408c3b110d2,b8c0320f-b8fc-459c-b66f-9a4c561e74d4,2025-08-08,Dr. Reed,K21.9,Gastro-esophageal reflux disease without esophagitis
+ac1492dc-6e46-4cc3-965a-28cb026fb67d,b8c0320f-b8fc-459c-b66f-9a4c561e74d4,2024-11-02,Dr. Hammond,F41.1,Generalized anxiety disorder
+66fd0815-3e22-4dd7-9846-6f5c34188498,c98e3536-e5e5-44ba-a9d9-bbb61ae742e2,2025-12-20,Dr. Brown,K21.9,Gastro-esophageal reflux disease without esophagitis
+0e60e09b-ac53-4c7c-8817-352f3b1b9c79,c98e3536-e5e5-44ba-a9d9-bbb61ae742e2,2025-08-23,Dr. Flynn,F41.1,Generalized anxiety disorder
+dcbec61f-5eec-4f68-88c8-0e4ecceb3e58,de054848-cb5c-4409-8f1b-98ef008742c2,2024-12-25,Dr. Wolfe,E11.9,Type 2 diabetes mellitus without complications
+cd58498d-cd2b-4852-85bd-014125193408,de054848-cb5c-4409-8f1b-98ef008742c2,2025-11-29,Dr. Perez,M54.5,Low back pain
+8db19fa4-3758-4412-ba1e-23b75789bf1f,de054848-cb5c-4409-8f1b-98ef008742c2,2026-08-17,Dr. Mays,E78.5,"Hyperlipidemia, unspecified"
+e0bb9faf-dc91-4e96-9276-d4b985133ee9,a75346b6-b03f-49f3-abed-3f550d3bc1cb,2025-12-17,Dr. Preston,I10,Essential (primary) hypertension
+5aa06376-0527-422e-a586-b9b26df96e58,a75346b6-b03f-49f3-abed-3f550d3bc1cb,2025-04-18,Dr. Carey,E11.9,Type 2 diabetes mellitus without complications

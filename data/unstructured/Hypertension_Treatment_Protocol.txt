@@ -1,0 +1,10 @@
+CLINICAL PROTOCOL: HYPERTENSION TREATMENT
+
+1. Overview
+Essential hypertension requires a comprehensive approach including lifestyle modifications and pharmacotherapy.
+
+2. First-line Agents
+Thiazide diuretics, calcium channel blockers, and ACE inhibitors or ARBs are recommended first-line options.
+
+3. Contraindications
+ACE inhibitors and ARBs should not be used in pregnant patients or those with a history of angioedema.

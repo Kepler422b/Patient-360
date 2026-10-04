@@ -1,0 +1,106 @@
+MEDICATION_ID,PATIENT_ID,ENCOUNTER_ID,PRESCRIBED_DATE,DRUG_NAME,FREQUENCY,STATUS
+b25d6c16-c3ef-42b5-aa7f-fa0dfb34e30a,85175220-2140-402d-9b8b-c7997c6f84d3,5cad9394-b735-442d-9aee-2d0c5db972fd,2026-09-30,Lisinopril 10mg,Once daily,Active
+782c95e8-d069-4136-af58-d2f2deb7e20a,626d174f-c5b4-4138-b5b4-5472eb396726,4f9441a8-ea42-4d5f-9038-93f4097c67d9,2026-06-07,Atorvastatin 20mg,Once daily at bedtime,Active
+e2cd295a-4399-48f0-bfe7-0cce6e1876de,264b4660-14a1-4b6a-be20-fd905d55d961,3158dea7-1d0b-4d0e-ace8-24023283e6f3,2025-03-11,Metformin 500mg,Twice daily,Discontinued
+a18a9115-f475-4010-bfe1-08b14ece9aab,264b4660-14a1-4b6a-be20-fd905d55d961,3ccbae59-02b5-4e76-927e-36c90353722f,2024-11-15,Metformin 500mg,Twice daily,Completed
+44f419f6-bfae-48d8-9062-9c75f859db3e,2995a67f-22b8-4497-a65b-201a3a4e753b,93233dd8-fec5-4250-92b3-e143d2721e81,2026-04-10,Atorvastatin 20mg,Once daily at bedtime,Active
+b9adb919-0ad5-4e8f-8555-7b25bf8983a9,2995a67f-22b8-4497-a65b-201a3a4e753b,87c710bf-1f04-49d1-8eb7-924a07a67b96,2026-07-30,Omeprazole 20mg,Once daily before breakfast,Completed
+1f8f1dfb-0214-4631-b5ea-fca8b2d6a39e,2995a67f-22b8-4497-a65b-201a3a4e753b,26a82afd-651d-4d31-b9e3-bb1179434e92,2026-05-28,Metformin 500mg,Twice daily,Active
+777e2c33-69f0-458c-acdf-3716d7efc399,8f95a76b-ec65-4f0f-a2b4-7b3da71747dd,a3a27438-1018-45dc-94ab-be94a12eb925,2025-10-27,Atorvastatin 20mg,Once daily at bedtime,Discontinued
+aac46033-99c0-45c7-bdb0-805a5d32cc98,8f95a76b-ec65-4f0f-a2b4-7b3da71747dd,5da74779-bb5a-41ac-bc86-0cf54f14ae81,2024-11-12,Metformin 500mg,Twice daily,Completed
+a853fcaf-ebfb-4d70-8a60-dfb5df46afaf,fd198c74-0849-4e38-b4c4-f51ad6e1e11b,3fd62e2c-2a95-4c87-83d4-1d91db4974bd,2024-12-26,Ibuprofen 400mg,Every 6 hours as needed,Discontinued
+439eccd3-6b9a-4120-bd16-1d9ecb108982,fd198c74-0849-4e38-b4c4-f51ad6e1e11b,6c5e38c9-5924-47a1-9c78-0407bd2bb15f,2025-02-10,Sertraline 50mg,Once daily,Active
+8e801a2c-a46f-4df0-956c-22e4525abae5,fd198c74-0849-4e38-b4c4-f51ad6e1e11b,1f5eee86-bef4-416f-b587-a4674414dc67,2026-01-03,Metformin 500mg,Twice daily,Discontinued
+f306f2f5-81b7-479d-9a3a-8b0ac4fb6801,bc447bcc-356c-4c06-b980-e0b54f5a5ada,c08b8150-8dc1-4e63-a75d-d40338e69249,2024-12-17,Metformin 500mg,Twice daily,Active
+fd0c992e-2134-4ade-8ec6-bd56b568a033,bc447bcc-356c-4c06-b980-e0b54f5a5ada,9d8fd13d-9964-47fe-81b1-0c9ac0d8703e,2024-10-03,Atorvastatin 20mg,Once daily at bedtime,Discontinued
+a5df0609-4dd5-496f-bfcd-f27a4756f62f,bc447bcc-356c-4c06-b980-e0b54f5a5ada,3c39767c-e6f7-486c-8c5e-0f3e2875ee09,2025-07-11,Lisinopril 10mg,Once daily,Discontinued
+4d68bfcd-832b-4f07-994b-5e8ef696f486,bc447bcc-356c-4c06-b980-e0b54f5a5ada,623e1b13-d281-4c5b-ac9b-fde31851eb6d,2025-06-14,Ibuprofen 400mg,Every 6 hours as needed,Discontinued
+94928287-14e2-4b31-b679-55a8e947aea4,8f359817-507a-4f3f-9228-c991edf5c51d,44a2b507-0689-4d83-b6b0-b6f75416e51a,2025-07-02,Ibuprofen 400mg,Every 6 hours as needed,Discontinued
+7c5bad73-1290-47d6-ba44-b76c14177aaf,8f359817-507a-4f3f-9228-c991edf5c51d,90b86d84-dfd7-4455-b487-6c9dc1f428e7,2026-04-09,Sertraline 50mg,Once daily,Active
+0d739a1b-1863-4e11-ba0d-6d6d1e63ef27,8f359817-507a-4f3f-9228-c991edf5c51d,62b87b7f-9f4c-4816-af46-880d15f19cf3,2025-10-16,Omeprazole 20mg,Once daily before breakfast,Completed
+3ff98af6-73e5-41fb-80f7-58169c3be381,8f359817-507a-4f3f-9228-c991edf5c51d,7f01f592-47ce-4ed3-be6f-55c91382558b,2024-10-11,Omeprazole 20mg,Once daily before breakfast,Discontinued
+3654c0df-c354-4cd7-bf11-8b307cf4ad54,7dc92762-cfb6-403d-8d0c-0148446ba90c,212a8c67-665b-4033-8279-6b14597de9d6,2026-01-11,Sertraline 50mg,Once daily,Discontinued
+f1b3799a-e5e4-4cdb-b50d-6c1f24fbc86a,7dc92762-cfb6-403d-8d0c-0148446ba90c,79c3890c-8ed4-4e08-9597-e8533ce513b6,2026-04-08,Albuterol Inhaler,As needed,Active
+0f38dce5-a247-4485-b8ef-9a683165200b,7dc92762-cfb6-403d-8d0c-0148446ba90c,10a95a7b-d957-4902-850f-bce256181cb3,2026-03-30,Omeprazole 20mg,Once daily before breakfast,Completed
+2fbd65ce-9ca0-428e-b325-7796a5209d3e,7dc92762-cfb6-403d-8d0c-0148446ba90c,600eeac4-3fcd-408d-a0b1-d3c299982296,2025-01-07,Sertraline 50mg,Once daily,Discontinued
+88ba8c59-8d44-4a0e-a497-e32c40972621,7dc92762-cfb6-403d-8d0c-0148446ba90c,4f66009d-3720-4d04-a6f3-e615e8c88cb2,2025-02-25,Metformin 500mg,Twice daily,Discontinued
+c64e8f66-d97d-4eaa-87fb-c5c789970bfe,9d845758-be3c-4a91-a4cd-9d2e29b2f0da,c770f9df-2537-4140-bdb2-770bee1f312d,2025-03-31,Omeprazole 20mg,Once daily before breakfast,Active
+cc3cd038-c093-4800-9bc3-c2a49fa272c4,804570b8-ea5d-4b80-a8d9-bb4edacbdaf3,009b8036-c6c4-423f-ae0f-6db70110bde5,2025-05-10,Metformin 500mg,Twice daily,Discontinued
+e8cf5402-e2e7-454e-b823-f571182c1e20,804570b8-ea5d-4b80-a8d9-bb4edacbdaf3,754768b3-accd-4194-bdf2-c38eb7b9625d,2024-11-14,Atorvastatin 20mg,Once daily at bedtime,Active
+d1140149-e31c-4c2a-9cb6-52f804dadb15,f6e71267-9024-4d80-9909-65ae301c3146,22f9fe71-ff68-4e24-8f4c-6c8094f230eb,2025-08-12,Omeprazole 20mg,Once daily before breakfast,Active
+e8c7c043-7bd2-43e3-86ba-7d44007eb8ab,f6e71267-9024-4d80-9909-65ae301c3146,b0dc10aa-6898-4b71-b318-0774451c05db,2026-05-06,Omeprazole 20mg,Once daily before breakfast,Completed
+b26d1dc2-ff5e-4817-880d-8d6959ad37a1,f6e71267-9024-4d80-9909-65ae301c3146,acd5ad5a-aad8-43aa-a973-fa2c2f9537fb,2025-07-04,Ibuprofen 400mg,Every 6 hours as needed,Completed
+ad5ccb75-2edc-44eb-a592-538d5509ae4d,d2fc371a-04f4-4b6a-a363-d358bc1632b2,5d2880ce-7229-4b6f-8bc4-47e19c9efd6a,2026-05-31,Sertraline 50mg,Once daily,Completed
+c7041706-ad48-49d2-956e-64729b947d1b,d2fc371a-04f4-4b6a-a363-d358bc1632b2,eb0de60d-1c1e-433c-ae29-717fdf656172,2025-07-06,Lisinopril 10mg,Once daily,Discontinued
+3598114c-f6c0-4d86-8254-45b8f33f8b1f,d2fc371a-04f4-4b6a-a363-d358bc1632b2,79decb94-d459-4fb8-a1f5-baf72dbaa003,2025-06-17,Metformin 500mg,Twice daily,Active
+fbff0b5c-2880-47ed-8e9c-a162b4a16894,51a87f7c-7a94-4ea2-9ff3-2860bfd012c5,9af55d17-f65a-4466-a805-7c722e478764,2025-03-07,Albuterol Inhaler,As needed,Discontinued
+efdb492b-4b28-477d-968a-3f2af618b2ee,51a87f7c-7a94-4ea2-9ff3-2860bfd012c5,3a53c46e-2786-4271-8a76-101fcb662629,2025-11-07,Omeprazole 20mg,Once daily before breakfast,Completed
+45d8dc5a-6c04-4620-b96a-f088702c8fa1,51a87f7c-7a94-4ea2-9ff3-2860bfd012c5,3ce665fa-bbc6-445e-b604-d749f97a57f0,2026-05-10,Sertraline 50mg,Once daily,Completed
+1c30b919-e72f-4aed-98f7-d44965b9cad4,51a87f7c-7a94-4ea2-9ff3-2860bfd012c5,763b2bb5-5d31-45de-9c6b-2c41f551b150,2025-05-14,Omeprazole 20mg,Once daily before breakfast,Discontinued
+96db3c6b-5026-4ea4-b5b1-7e67e98df375,51a87f7c-7a94-4ea2-9ff3-2860bfd012c5,bd42c225-efcc-4ea7-a16b-06e0ec0c44dc,2025-04-14,Albuterol Inhaler,As needed,Discontinued
+25357497-5626-4eec-a7ce-af5dd519ea1e,597c187a-615d-4929-ada0-a5d1d7fe8ff4,69769497-c5a9-4a6c-bc33-d1a162b883c9,2025-04-06,Atorvastatin 20mg,Once daily at bedtime,Discontinued
+7b39c0a7-030b-458a-9470-74405dce1bae,597c187a-615d-4929-ada0-a5d1d7fe8ff4,6228b1f5-05bf-49cc-a9cd-4bc00feed0f5,2026-06-01,Lisinopril 10mg,Once daily,Completed
+dd0a8d34-4227-495b-a2d5-e989dad22530,7acd4adb-ff67-4453-b301-f2b59e8cb4e7,27ed560b-692b-4695-b634-20f1ed53dd19,2026-01-11,Albuterol Inhaler,As needed,Completed
+1667b12b-bdc7-443c-a0fb-01bfe575eea2,23861a77-8c34-46eb-a18e-e35d58a050d4,f82345dc-e0c2-46dc-abca-a4347ded012d,2025-01-14,Omeprazole 20mg,Once daily before breakfast,Discontinued
+1098b403-a4ad-40d8-a1fc-4ef13f6f9d9a,9f0d2c68-9620-4f77-8935-784c55b14b1d,1b3b20eb-0217-4136-b131-46baf780058a,2026-08-28,Sertraline 50mg,Once daily,Completed
+2e1541ad-ad49-4ec0-ad36-686d5abb9722,cf7c7634-eca8-4527-801c-7c9720ba7f8b,6d53bfd3-88bd-43d1-b84c-1c1714105cc2,2026-08-19,Omeprazole 20mg,Once daily before breakfast,Active
+f07adfa0-df9e-41f0-932c-be90b5c48841,1896e8a3-1955-439c-bf4d-eb91c3e84cb5,6e611950-68a9-43d9-b934-9203c5b2949a,2026-01-28,Sertraline 50mg,Once daily,Discontinued
+720b9aa2-233f-4ba1-b1bd-a01ebdb3fd0f,3a250a7c-f377-4fff-9f5b-6b09fe0ee8ce,3ce95f89-3ec2-4512-9389-c233772a0ca6,2025-05-30,Atorvastatin 20mg,Once daily at bedtime,Active
+ff956e2c-d084-45b9-ac70-e87825ca819e,4bd2f649-6279-4a94-8af1-106c76bd1e8b,62920c80-af30-49d7-b572-a36dcca6356b,2025-01-30,Ibuprofen 400mg,Every 6 hours as needed,Active
+8e3eb411-448c-4224-a2c8-1665218cfe61,4bd2f649-6279-4a94-8af1-106c76bd1e8b,c675b6ca-9d8c-477a-868a-c886b65bc13d,2026-05-11,Ibuprofen 400mg,Every 6 hours as needed,Discontinued
+4646dd9a-a0d3-4093-b1b8-775b1dc3f1f1,4bd2f649-6279-4a94-8af1-106c76bd1e8b,ef525fc9-6917-4dbc-8885-a39afe324517,2025-01-27,Atorvastatin 20mg,Once daily at bedtime,Active
+8dde959b-53b0-41a1-ae0b-b0336bb94f87,4bd2f649-6279-4a94-8af1-106c76bd1e8b,43b3f9f7-b55e-4203-943a-d783004e71c5,2026-01-30,Sertraline 50mg,Once daily,Active
+b6230a4e-c4f7-46f3-a48f-741c82df7656,9200908c-3a05-4278-88ef-119337bc8c25,e0632e2e-613e-478f-b5d8-c9905c6a59bb,2026-03-20,Lisinopril 10mg,Once daily,Completed
+f97aec4c-fcd0-4758-a822-5b2c8584c9e1,3dbc18a8-c6c3-4bc8-afcb-de332d2bfe80,315d763f-97a7-4e81-8650-e9d4aa811f62,2025-05-23,Ibuprofen 400mg,Every 6 hours as needed,Discontinued
+b99e98f1-a960-47e5-85f6-7737cb8bf6fd,3dbc18a8-c6c3-4bc8-afcb-de332d2bfe80,f97da309-3b10-4873-bcc4-fa2a8697e50b,2025-08-05,Sertraline 50mg,Once daily,Completed
+0a653063-7b46-4946-b586-0941ed6c4079,c61cf801-6bc9-49af-acff-8c3c7fa30ffa,df47d387-1f39-46ea-988d-939b3351cbd9,2025-01-26,Albuterol Inhaler,As needed,Active
+b0fe4533-34f5-4d80-b76f-107e145d3a88,8250e0c7-392e-4fa9-b1cc-59ed6c761d39,2b10349e-512e-49d8-b5a5-9b3dac089aeb,2024-11-01,Lisinopril 10mg,Once daily,Completed
+93f8fb0f-f654-4a57-80aa-921d92213090,8250e0c7-392e-4fa9-b1cc-59ed6c761d39,9f38583b-01d5-40d5-a795-0318b8a0b13f,2025-01-30,Omeprazole 20mg,Once daily before breakfast,Completed
+b081de5e-a46b-4cb9-b641-fc86a7237cb7,9c55c2be-fdee-4b72-9af8-0f5cf9b4ba17,e7526286-cdb3-45c5-8ea3-87a949bca6d0,2026-07-17,Ibuprofen 400mg,Every 6 hours as needed,Active
+48c773ec-48cf-4d07-a848-c37c0eff913b,9c55c2be-fdee-4b72-9af8-0f5cf9b4ba17,532f5e05-26fb-4b6a-b453-159cbc83828a,2026-04-14,Albuterol Inhaler,As needed,Discontinued
+fc39f403-1161-4fea-ab5d-aab2241bf07c,973dc948-c26f-4235-968c-7701e8221e6d,481a3ac3-a858-4b14-8813-caac169f72b3,2025-11-08,Sertraline 50mg,Once daily,Discontinued
+f69dee30-a22e-443d-80cb-5594e4b26670,c331057a-0e9a-417e-91b1-6b78ab48bf43,9bf337cb-bceb-4dd9-9e84-53f9612dc6a9,2025-10-08,Ibuprofen 400mg,Every 6 hours as needed,Active
+5a9c84d6-a2cc-4521-9084-18194bb19005,c331057a-0e9a-417e-91b1-6b78ab48bf43,eb35424f-cbf6-499c-b692-80459ad2de06,2026-02-03,Albuterol Inhaler,As needed,Discontinued
+d4b8ea29-0be5-45ac-9f2a-68e3e1ea1d70,c331057a-0e9a-417e-91b1-6b78ab48bf43,2b373691-488a-49f2-aeeb-3be40ac72c47,2026-08-16,Ibuprofen 400mg,Every 6 hours as needed,Discontinued
+a9f1b6e1-a912-40e0-982a-35398dc27b6d,c331057a-0e9a-417e-91b1-6b78ab48bf43,b2d94489-125b-4b41-bb96-42b3ce7fb4e6,2024-10-19,Atorvastatin 20mg,Once daily at bedtime,Completed
+c313f1bd-4017-47fd-a605-5c627613a7cd,96701f1b-cbf1-4c34-9638-429733694abd,9f33a1e3-e1bb-4bec-aa2d-838a6089ded1,2025-07-21,Sertraline 50mg,Once daily,Active
+6cce19b8-ceab-42ec-85e9-88eb3662e718,96701f1b-cbf1-4c34-9638-429733694abd,4ff61074-334e-4378-98e0-5e9a8961d2d2,2025-04-22,Albuterol Inhaler,As needed,Active
+6ed310f8-dd84-4a1f-9cf2-eebaf18a45e8,96701f1b-cbf1-4c34-9638-429733694abd,cefd80d6-0dce-4cfb-a810-2191cc6ea7bc,2025-09-13,Omeprazole 20mg,Once daily before breakfast,Active
+31c9693b-8a7e-4ba9-9e69-091a5e5afb85,321c842d-8736-4c86-9051-f3df3cf05632,e7715fdd-4b85-40c1-bcf3-5fddf7697cc3,2026-04-07,Ibuprofen 400mg,Every 6 hours as needed,Active
+b1c2e59c-ca3e-4ac8-b966-eac35e40eff1,6043ffdb-11e5-43d9-bc1b-b4aa92d046a8,b7712e27-3acb-4aa8-aa10-2216aaaf0a21,2025-09-14,Omeprazole 20mg,Once daily before breakfast,Completed
+3a2a4264-9103-4112-99c4-8f6390cbc167,934ae914-a6e8-4c7c-9ad0-c4e20537f5e5,39ff5c0d-3a47-4fb3-8682-aad95e5ac5b0,2026-01-25,Atorvastatin 20mg,Once daily at bedtime,Active
+b1bca173-dff9-4b48-8a32-db96db448a98,1a59bad0-23c2-4532-93cf-5f2eadc1629f,4e9487cb-1fc6-44ec-a83c-38cdebcd3308,2025-10-19,Lisinopril 10mg,Once daily,Active
+b9227ce6-6529-44d8-8f32-5d066663941f,1a59bad0-23c2-4532-93cf-5f2eadc1629f,5da5e85f-fd48-4417-bd44-53874026d541,2025-11-12,Metformin 500mg,Twice daily,Active
+5416b13b-6c00-4e51-b8a8-d43f49e0a8c5,5db9d5dc-2041-4b06-a685-b903e82e5dc3,ab5eca06-6f33-4e8a-902e-204cacd44a47,2026-06-21,Omeprazole 20mg,Once daily before breakfast,Active
+786cda02-c972-49c0-b7e2-1858e04f54dc,5db9d5dc-2041-4b06-a685-b903e82e5dc3,9a20b148-2060-48c8-8038-63acdfcd5ad0,2025-08-08,Omeprazole 20mg,Once daily before breakfast,Active
+96722648-6872-42ce-b908-804e2e7adc85,5db9d5dc-2041-4b06-a685-b903e82e5dc3,9c4c3cbe-b075-4753-8673-741263b5a1df,2024-12-19,Albuterol Inhaler,As needed,Discontinued
+14036281-4a6e-4925-bd71-bc2a2e706491,3b31a6da-d473-4673-a3fc-d1099db8c53c,a30005ba-f5ef-4307-924f-791baa9d0e73,2026-03-13,Omeprazole 20mg,Once daily before breakfast,Active
+3a6aa13f-ad10-411f-8538-38929a2238a2,3b31a6da-d473-4673-a3fc-d1099db8c53c,5bcc8fc9-3174-4050-b419-35e5bd64462d,2025-02-28,Atorvastatin 20mg,Once daily at bedtime,Discontinued
+d765849f-1252-49b8-b201-72b2ee7fefbf,3b31a6da-d473-4673-a3fc-d1099db8c53c,0c237dc5-1c81-4d92-a9be-ab4f7415e1ec,2025-03-02,Atorvastatin 20mg,Once daily at bedtime,Discontinued
+5bc2e400-2ddf-41dc-aaba-3b26739cdb26,26000e45-2e49-44f9-9c0a-e88c37697b18,7c7bcb87-0a52-408d-ba2f-dd2a0ee49d83,2026-07-26,Sertraline 50mg,Once daily,Active
+c65ace40-268d-459d-ba8f-262f746f6494,26000e45-2e49-44f9-9c0a-e88c37697b18,49fdf111-5951-46b0-9042-ebd3e0084da0,2025-03-05,Atorvastatin 20mg,Once daily at bedtime,Discontinued
+5bff848a-e125-4d34-9723-dce1425036ac,26000e45-2e49-44f9-9c0a-e88c37697b18,ade11d4d-959e-4ebd-9a6b-9dfb8048a2ba,2026-01-06,Sertraline 50mg,Once daily,Completed
+315ad6a0-457b-4748-a149-b534a1e9be4b,8a9fafd5-e781-4d78-8417-db24d279fd1c,5bfedba9-7198-405d-89ef-ad75addad727,2026-06-24,Metformin 500mg,Twice daily,Discontinued
+7a9b6081-109f-40ab-aad3-ac7e66891991,8a9fafd5-e781-4d78-8417-db24d279fd1c,dadb2c6d-6715-4ac9-b04d-de17d4e1aea0,2026-03-03,Albuterol Inhaler,As needed,Active
+cbd23a48-f4e3-41eb-a59b-f7095a794437,3fa81e94-7f09-4201-86dd-7c3932a3d232,ee674c42-c131-4cfd-8049-71007487cd90,2024-11-03,Ibuprofen 400mg,Every 6 hours as needed,Discontinued
+dcd3ff8e-4be1-4f20-bc8c-72a6511f667d,3fa81e94-7f09-4201-86dd-7c3932a3d232,ee6e335f-df46-4c65-b85c-ceccb612f4b6,2025-03-20,Omeprazole 20mg,Once daily before breakfast,Discontinued
+ca8c249e-fb87-4504-a2db-359a66c08229,231e591f-f42a-4c16-91cd-e4fb106b54f3,8c522c71-719d-4bb8-9448-cc6575a1f0f6,2025-06-07,Lisinopril 10mg,Once daily,Completed
+63d163bb-bb0f-46ff-b2bf-c0b1fe09958b,231e591f-f42a-4c16-91cd-e4fb106b54f3,3f8162cb-d626-48c9-93d4-b9386ada2f7a,2026-03-29,Omeprazole 20mg,Once daily before breakfast,Completed
+77954624-2690-4516-9f6e-51f3323a550a,231e591f-f42a-4c16-91cd-e4fb106b54f3,94d88ee3-1ad9-4e6b-808b-af85b6b88863,2025-05-24,Metformin 500mg,Twice daily,Discontinued
+0023a62e-2d44-4510-8f59-25fd18542a7c,a7a0f418-7d49-411d-965a-1f4f45cf4b71,3e064246-2a25-474a-aa4d-cac36933cc9c,2025-01-27,Atorvastatin 20mg,Once daily at bedtime,Active
+98b31dfc-adc4-4c1e-bf66-be70a7c3d6fe,a7a0f418-7d49-411d-965a-1f4f45cf4b71,7cab72a7-3eaa-4a20-9d46-afd0b97db177,2026-05-19,Atorvastatin 20mg,Once daily at bedtime,Discontinued
+7c6c4ac0-e518-4716-a7c9-202e93414bff,d22f7ee4-f822-4ccb-9ce1-f4569a63a99e,1ec4b891-c42d-473d-b59b-14b09e34b15e,2025-09-29,Sertraline 50mg,Once daily,Active
+1cb83c6f-6cb2-4f77-8f9d-064a1cb137a8,d22f7ee4-f822-4ccb-9ce1-f4569a63a99e,91d4d155-b202-4ba2-a034-a50c7993bcf7,2026-08-15,Lisinopril 10mg,Once daily,Active
+10d5d812-b4f9-48f1-9d5d-9088f89be007,d22f7ee4-f822-4ccb-9ce1-f4569a63a99e,42762cea-d02a-4046-aad0-3501ff190ba0,2026-03-27,Albuterol Inhaler,As needed,Discontinued
+67075fc7-2a6b-4bd4-b59c-27d38a3379e1,d22f7ee4-f822-4ccb-9ce1-f4569a63a99e,1851bf49-c41e-467c-99b0-d9b7dbdc68a8,2026-08-18,Lisinopril 10mg,Once daily,Discontinued
+42104542-4596-40ba-bf77-59d14c70e171,ad975442-8420-4634-ac57-80083a73a269,6aaf4b65-5574-4222-8594-56f70c0d7720,2025-12-11,Lisinopril 10mg,Once daily,Completed
+32e58a8e-3385-4c0e-ac7a-00c76f3c7807,553f4fe0-6fe8-46f4-b632-15c980237ab3,5d8c3da2-061e-46c1-bc39-c6480f843486,2026-06-29,Ibuprofen 400mg,Every 6 hours as needed,Completed
+56e82813-9905-40e7-aa16-e4b72d4a8288,553f4fe0-6fe8-46f4-b632-15c980237ab3,ee4cad5c-27b8-4168-87dd-8f098702807e,2024-12-01,Omeprazole 20mg,Once daily before breakfast,Discontinued
+9d965eb1-05a5-4958-a054-3b2e8ef7e658,553f4fe0-6fe8-46f4-b632-15c980237ab3,804f3552-6830-4f6b-8416-cf95f479d4cf,2026-09-12,Metformin 500mg,Twice daily,Completed
+8c88ec47-6dbe-4d7b-b72e-8d84d7d6823f,553f4fe0-6fe8-46f4-b632-15c980237ab3,40626744-14fc-4e30-a211-9102565a9b42,2025-03-01,Lisinopril 10mg,Once daily,Completed
+20599a24-6ec9-45df-bb90-745450432c4d,b8c0320f-b8fc-459c-b66f-9a4c561e74d4,3b907c36-56d2-4ec7-ae3e-d408c3b110d2,2025-08-08,Lisinopril 10mg,Once daily,Discontinued
+c865f1b6-e439-4da6-8500-b657dfe910c6,b8c0320f-b8fc-459c-b66f-9a4c561e74d4,ac1492dc-6e46-4cc3-965a-28cb026fb67d,2024-11-02,Atorvastatin 20mg,Once daily at bedtime,Completed
+043e7327-afd0-4977-886d-6f387920e91e,c98e3536-e5e5-44ba-a9d9-bbb61ae742e2,0e60e09b-ac53-4c7c-8817-352f3b1b9c79,2025-08-23,Atorvastatin 20mg,Once daily at bedtime,Active
+463944aa-cd5e-44cc-b63a-6b8e1996556e,de054848-cb5c-4409-8f1b-98ef008742c2,cd58498d-cd2b-4852-85bd-014125193408,2025-11-29,Atorvastatin 20mg,Once daily at bedtime,Completed
+0b81c265-59f9-4976-b551-c979d7c086fa,de054848-cb5c-4409-8f1b-98ef008742c2,8db19fa4-3758-4412-ba1e-23b75789bf1f,2026-08-17,Ibuprofen 400mg,Every 6 hours as needed,Active
+85716b3c-6618-4ae6-a4ab-ee7284818811,a75346b6-b03f-49f3-abed-3f550d3bc1cb,5aa06376-0527-422e-a586-b9b26df96e58,2025-04-18,Metformin 500mg,Twice daily,Completed
